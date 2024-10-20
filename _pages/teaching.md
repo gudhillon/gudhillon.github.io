@@ -8,7 +8,9 @@ nav_order: 6
 ---
 
 CSE 113: Concurrent and Parallel Programming - Fall 2024
-CSE 111: Advanced Programming - Spring 2024
-CSE 113: Concurrent and Parallel Programming -  Winter 2024
-CSE 130: Principles of Computer System Design - Fall 2023
 
+CSE 111: Advanced Programming - Spring 2024
+
+CSE 113: Concurrent and Parallel Programming -  Winter 2024
+
+CSE 130: Principles of Computer System Design - Fall 2023
