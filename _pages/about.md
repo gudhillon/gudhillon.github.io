@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: MS Student at UC Santa Cruz
 
@@ -18,5 +18,5 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a graduate student researcher working on GPU programming, more specifically on GPU synchronization and atomic performance modeling.
+I am a graduate student researcher working on GPU programming, more specifically on GPU synchronization and atomic performance modeling. I have teaching experience in courses Parallel Programming and Computer Systems. My research interests lie in studying the trade-offs between specialization and portability in the context of GPU cross-vendor performance. I am a prospective PhD applicant for Fall 2025.
 
