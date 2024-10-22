@@ -13,6 +13,10 @@ nav_order: 2
 
 <!-- {% include bib_search.liquid %} -->
 
+## Papers:
+
+[Paper here](https://gudhillon.github.io/assets/pdf/ms.pdf)
+
 <div class="Papers">
 
 {% bibliography %}
