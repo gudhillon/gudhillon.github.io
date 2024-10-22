@@ -5,6 +5,18 @@
     "url": "https://www.linkedin.com/in/gudhillon/",
     "summary": "Second year UC Santa Cruz Master's student researching in GPU performance"
   },
+  "skills": [
+    {
+      "name": "GPU programming",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "GPU frameworks (CUDA, Vulkan)",
+        "GPU microarchitecture system/optimization",
+        "GPU compute (OpenCL)",
+        ""
+      ]
+    }
+  ],
   "work": [
     {
       "name": "University of California, Santa Cruz",
@@ -31,66 +43,6 @@
       "highlights": ["Full-stack", "IBM Cloud", "Automation testing"]
     }
   ],
-  "education": [
-    {
-      "institution": "University of California, Santa Cruz",
-      "location": "Santa Cruz",
-      "area": "Computer Science and Engineering",
-      "studyType": "Master's of Science",
-      "startDate": "2023-09",
-      "endDate": "Present",
-      "score": "3.78",
-      "courses": ["Compiler Design", "Computer Architecture", "Distributed Systems", "AI/ML", "Operating Systems"]
-    },
-    {
-      "institution": "University of California, Santa Cruz",
-      "location": "Santa Cruz",
-      "area": "Computer Engineering",
-      "studyType": "Bachelor's of Science",
-      "startDate": "2019-09",
-      "endDate": "2023-06",
-      "score": "3.75",
-      "courses": ["Concurrent and Parallel Programming", "Principles of Computer System Design", "Distributed Systems", "Embedded Systems"]
-    }
-  ],
-  "skills": [
-    {
-      "name": "GPU programming",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "GPU frameworks (CUDA, Vulkan)",
-        "GPU microarchitecture system/optimization",
-        "GPU compute (OpenCL)",
-        ""
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Punjabi",
-      "fluency": "Native",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Native Speaker",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Concurrent and Parallel Programming",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Types of paralllelism in processors",
-        "CPU/GPU synchronization primitives",
-        "Concurrent data structures",
-        "GPU computing",
-        "Memory models",
-        "Forward progress"
-      ]
-    }
-  ],
   "projects": [
     {
       "name": "GPU Atomic-RMW Performance Microbenchmark",
@@ -98,7 +50,7 @@
       "highlights": ["GPU cross-vendor performance", "Vulkan", "Atomic-RMW instruction analysis"],
       "startDate": "2023-05",
       "endDate": "Present",
-      "url": ["https://github.com/ucsc-chpl/epiphron", "https://github.com/ucsc-chpl/gpu-atomic-rmw-microbenchmark"]
+      "url": "https://github.com/ucsc-chpl/epiphron"
     },
     {
       "name": "RESTful Distributed Key-Value Store",
@@ -128,6 +80,54 @@
       "startDate": "2021-07",
       "endDate": "2021-08",
       "url": "https://github.com/gudhillon/webIO"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Concurrent and Parallel Programming",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Types of paralllelism in processors",
+        "CPU/GPU synchronization primitives",
+        "Concurrent data structures",
+        "GPU computing",
+        "Memory models",
+        "Forward progress"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of California, Santa Cruz",
+      "location": "Santa Cruz",
+      "area": "Computer Science and Engineering",
+      "studyType": "Master's of Science",
+      "startDate": "2023-09",
+      "endDate": "Present",
+      "score": "3.78",
+      "courses": ["Compiler Design", "Computer Architecture", "Distributed Systems", "AI/ML", "Operating Systems"]
+    },
+    {
+      "institution": "University of California, Santa Cruz",
+      "location": "Santa Cruz",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor's of Science",
+      "startDate": "2019-09",
+      "endDate": "2023-06",
+      "score": "3.75",
+      "courses": ["Concurrent and Parallel Programming", "Principles of Computer System Design", "Distributed Systems", "Embedded Systems"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Punjabi",
+      "fluency": "Native",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Native Speaker",
+      "icon": ""
     }
   ]
 }
