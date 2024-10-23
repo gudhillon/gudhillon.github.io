@@ -34,16 +34,34 @@ nav_order: 5
     display: inline-block;
     padding: 10px 15px;
     margin-top: 10px;
-    border: 2px solid white;
+    border: 2px solid;
     background-color: transparent;
-    color: white;
     text-decoration: none;
     border-radius: 5px;
     transition: background-color 0.3s ease, color 0.3s ease;
   }
 
-  .pdf-button:hover {
-    background-color: white;
-    color: black;
+  /* Default styling for light mode (day mode) */
+  @media (prefers-color-scheme: light) {
+    .pdf-button {
+      border-color: black;
+      color: black;
+    }
+    .pdf-button:hover {
+      background-color: black;
+      color: white;
+    }
+  }
+
+  /* Styling for dark mode (night mode) */
+  @media (prefers-color-scheme: dark) {
+    .pdf-button {
+      border-color: white;
+      color: white;
+    }
+    .pdf-button:hover {
+      background-color: white;
+      color: black;
+    }
   }
 </style>
