@@ -68,7 +68,7 @@
     },
     {
       "name": "HTTP Reverse Proxy Server",
-      "summary": "Created a reverse proxy in C, which persistent connections, load-balancing, and caching",
+      "summary": "Created a reverse proxy in C, which supports persistent connections, load-balancing, and caching",
       "highlights": ["multi-threading", "server performance-tracking", "connection distribution", "audit-logging"],
       "startDate": "2021-10",
       "endDate": "2021-11"
